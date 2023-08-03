@@ -1,0 +1,47 @@
+
+#body{ 	
+	background-color: red;  
+}
+
+ul{
+
+	list-style-type: none ;
+}
+
+li{
+	display: block;
+}
+
+li a{
+	
+	border-bottom: 2px solid #e6e6e6;
+	display: block;
+	color: #000;
+	font-family: helvetica;
+	font-size: 36px;
+	padding: 8px;
+	text-decoration: none;
+}
+
+li a:hover{
+	background-color: #E44041;
+	color: #fff;
+	-moz-transition: .4s linear;
+	-webkit-transition: .4s ease-out;
+	transition: .4s linear;
+}
+
+nav a:hover{
+	background-color: #E44041;
+	color: #fff;
+	-moz-transition: .4s linear;
+	-webkit-transition: .4s ease-out;
+	transition: .4s linear;
+}
+
+#############COLORES###################
+#E44041 rojo
+#fff blanco
+#000; negro
+#e6e6e6; gris
+########################################
